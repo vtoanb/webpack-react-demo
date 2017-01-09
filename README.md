@@ -9,3 +9,9 @@ NODE_ENV=production ./node_modules/webpack/bin/webpack.js -p
 
 **tutorial**
 https://www.jonathan-petitcolas.com/2015/05/15/howto-setup-webpack-on-es6-react-application-with-sass.html
+
+**http server**
+- install:
+  npm i --save-dev http-server
+- run http server:
+  ./node_modules/http-server/bin/http-server -p 3000 .
