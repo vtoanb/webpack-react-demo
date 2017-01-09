@@ -1,0 +1,15 @@
+{
+  "name": "learn-webpack",
+  "version": "1.0.0",
+  "description": "how to use webpack config",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vtoanb <vtoanb@gmail.com> (github.com/vtoanb)",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
