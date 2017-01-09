@@ -9,6 +9,8 @@
   "author": "Vtoanb <vtoanb@gmail.com> (github.com/vtoanb)",
   "license": "ISC",
   "devDependencies": {
+    "babel-loader": "^6.2.10",
+    "jsx-loader": "^0.13.2",
     "webpack": "^1.14.0",
     "webpack-dev-server": "^1.16.2"
   }
